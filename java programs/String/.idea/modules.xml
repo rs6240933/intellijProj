@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/String.iml" filepath="$PROJECT_DIR$/.idea/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog1/prog1.iml" filepath="$PROJECT_DIR$/prog1/prog1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog2_reverse_string/prog2_reverse_string.iml" filepath="$PROJECT_DIR$/prog2_reverse_string/prog2_reverse_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog3_strLength/prog3_strLength.iml" filepath="$PROJECT_DIR$/prog3_strLength/prog3_strLength.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog4/prog4.iml" filepath="$PROJECT_DIR$/prog4/prog4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog5_arthstring/prog5_arthstring.iml" filepath="$PROJECT_DIR$/prog5_arthstring/prog5_arthstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog6_occuranceOfLetter/prog6_occuranceOfLetter.iml" filepath="$PROJECT_DIR$/prog6_occuranceOfLetter/prog6_occuranceOfLetter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog7_occuranceOfchar/prog7_occuranceOfchar.iml" filepath="$PROJECT_DIR$/prog7_occuranceOfchar/prog7_occuranceOfchar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog8_removalofrepetchar/prog8_removalofrepetchar.iml" filepath="$PROJECT_DIR$/prog8_removalofrepetchar/prog8_removalofrepetchar.iml" />
+    </modules>
+  </component>
+</project>

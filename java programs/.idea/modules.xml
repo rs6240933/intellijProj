@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java programs.iml" filepath="$PROJECT_DIR$/.idea/java programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p-2/p-2.iml" filepath="$PROJECT_DIR$/Patterns/p-2/p-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p1/p1.iml" filepath="$PROJECT_DIR$/Patterns/p1/p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p10/p10.iml" filepath="$PROJECT_DIR$/Patterns/p10/p10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic programs/p10_constructor/p10_constructor.iml" filepath="$PROJECT_DIR$/basic programs/p10_constructor/p10_constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p11/p11.iml" filepath="$PROJECT_DIR$/Patterns/p11/p11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic programs/p11_oops_encapsulation/p11_oops_encapsulation.iml" filepath="$PROJECT_DIR$/basic programs/p11_oops_encapsulation/p11_oops_encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p12/p12.iml" filepath="$PROJECT_DIR$/Patterns/p12/p12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p13/p13.iml" filepath="$PROJECT_DIR$/Patterns/p13/p13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p14/p14.iml" filepath="$PROJECT_DIR$/Patterns/p14/p14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p15/p15.iml" filepath="$PROJECT_DIR$/Patterns/p15/p15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p16/p16.iml" filepath="$PROJECT_DIR$/Patterns/p16/p16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p17/p17.iml" filepath="$PROJECT_DIR$/Patterns/p17/p17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p18/p18.iml" filepath="$PROJECT_DIR$/Patterns/p18/p18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p19/p19.iml" filepath="$PROJECT_DIR$/Patterns/p19/p19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic programs/p1_sum/p1_sum.iml" filepath="$PROJECT_DIR$/basic programs/p1_sum/p1_sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p20/p20.iml" filepath="$PROJECT_DIR$/Patterns/p20/p20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p21/p21.iml" filepath="$PROJECT_DIR$/Patterns/p21/p21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p22/p22.iml" filepath="$PROJECT_DIR$/Patterns/p22/p22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p23/p23.iml" filepath="$PROJECT_DIR$/Patterns/p23/p23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p24/p24.iml" filepath="$PROJECT_DIR$/Patterns/p24/p24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p25/p25.iml" filepath="$PROJECT_DIR$/Patterns/p25/p25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p26/p26.iml" filepath="$PROJECT_DIR$/Patterns/p26/p26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic programs/p2_palindrome/p2_palindrome.iml" filepath="$PROJECT_DIR$/basic programs/p2_palindrome/p2_palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p3/p3.iml" filepath="$PROJECT_DIR$/Patterns/p3/p3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic programs/p3_func/p3_func.iml" filepath="$PROJECT_DIR$/basic programs/p3_func/p3_func.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p4/p4.iml" filepath="$PROJECT_DIR$/Patterns/p4/p4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic programs/p4rec/p4rec.iml" filepath="$PROJECT_DIR$/basic programs/p4rec/p4rec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p5/p5.iml" filepath="$PROJECT_DIR$/Patterns/p5/p5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p6/p6.iml" filepath="$PROJECT_DIR$/Patterns/p6/p6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic programs/p6_oop_accessModifier/p6_oop_accessModifier.iml" filepath="$PROJECT_DIR$/basic programs/p6_oop_accessModifier/p6_oop_accessModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p7/p7.iml" filepath="$PROJECT_DIR$/Patterns/p7/p7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic programs/p7_oo-_inheritence/p7_oo-_inheritence.iml" filepath="$PROJECT_DIR$/basic programs/p7_oo-_inheritence/p7_oo-_inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p8/p8.iml" filepath="$PROJECT_DIR$/Patterns/p8/p8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic programs/p8_oops_poly-compile time/p8_oops_poly-compile time.iml" filepath="$PROJECT_DIR$/basic programs/p8_oops_poly-compile time/p8_oops_poly-compile time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/p9/p9.iml" filepath="$PROJECT_DIR$/Patterns/p9/p9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic programs/p9_oops_runTime_poly/p9_oops_runTime_poly.iml" filepath="$PROJECT_DIR$/basic programs/p9_oops_runTime_poly/p9_oops_runTime_poly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/plan/plan.iml" filepath="$PROJECT_DIR$/Patterns/plan/plan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/prog1/prog1.iml" filepath="$PROJECT_DIR$/String/prog1/prog1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/prog2_reverse_string/prog2_reverse_string.iml" filepath="$PROJECT_DIR$/String/prog2_reverse_string/prog2_reverse_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/prog3_strLength/prog3_strLength.iml" filepath="$PROJECT_DIR$/String/prog3_strLength/prog3_strLength.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/prog4/prog4.iml" filepath="$PROJECT_DIR$/String/prog4/prog4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/prog5_arthstring/prog5_arthstring.iml" filepath="$PROJECT_DIR$/String/prog5_arthstring/prog5_arthstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/prog6_occuranceOfLetter/prog6_occuranceOfLetter.iml" filepath="$PROJECT_DIR$/String/prog6_occuranceOfLetter/prog6_occuranceOfLetter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/prog7_occuranceOfchar/prog7_occuranceOfchar.iml" filepath="$PROJECT_DIR$/String/prog7_occuranceOfchar/prog7_occuranceOfchar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/prog8_removalofrepetchar/prog8_removalofrepetchar.iml" filepath="$PROJECT_DIR$/String/prog8_removalofrepetchar/prog8_removalofrepetchar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/untitled/untitled.iml" filepath="$PROJECT_DIR$/Patterns/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

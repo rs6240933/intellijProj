@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/oop1/oop1.iml" filepath="$PROJECT_DIR$/java programs/oop1/oop1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA 2 programs/p-1/p-1.iml" filepath="$PROJECT_DIR$/JAVA 2 programs/p-1/p-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p-2/p-2.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p-2/p-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p1/p1.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p1/p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p10/p10.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p10/p10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/basic programs/p10_constructor/p10_constructor.iml" filepath="$PROJECT_DIR$/java programs/basic programs/p10_constructor/p10_constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p11/p11.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p11/p11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/basic programs/p11_oops_encapsulation/p11_oops_encapsulation.iml" filepath="$PROJECT_DIR$/java programs/basic programs/p11_oops_encapsulation/p11_oops_encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p12/p12.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p12/p12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p13/p13.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p13/p13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p14/p14.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p14/p14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p15/p15.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p15/p15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p16/p16.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p16/p16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p17/p17.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p17/p17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p18/p18.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p18/p18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p19/p19.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p19/p19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/basic programs/p1_sum/p1_sum.iml" filepath="$PROJECT_DIR$/java programs/basic programs/p1_sum/p1_sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/p2/p2.iml" filepath="$PROJECT_DIR$/java programs/p2/p2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p20/p20.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p20/p20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p21/p21.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p21/p21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p22/p22.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p22/p22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p23/p23.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p23/p23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p24/p24.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p24/p24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p25/p25.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p25/p25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p26/p26.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p26/p26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/basic programs/p2_palindrome/p2_palindrome.iml" filepath="$PROJECT_DIR$/java programs/basic programs/p2_palindrome/p2_palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p3/p3.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p3/p3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA 2 programs/p3/p31.iml" filepath="$PROJECT_DIR$/JAVA 2 programs/p3/p31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/basic programs/p3_func/p3_func.iml" filepath="$PROJECT_DIR$/java programs/basic programs/p3_func/p3_func.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p4/p4.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p4/p4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA 2 programs/p4/p41.iml" filepath="$PROJECT_DIR$/JAVA 2 programs/p4/p41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/basic programs/p4rec/p4rec.iml" filepath="$PROJECT_DIR$/java programs/basic programs/p4rec/p4rec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p5/p5.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p5/p5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA 2 programs/p5/p51.iml" filepath="$PROJECT_DIR$/JAVA 2 programs/p5/p51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p6/p6.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p6/p6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA 2 programs/p6/p61.iml" filepath="$PROJECT_DIR$/JAVA 2 programs/p6/p61.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/basic programs/p6_oop_accessModifier/p6_oop_accessModifier.iml" filepath="$PROJECT_DIR$/java programs/basic programs/p6_oop_accessModifier/p6_oop_accessModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p7/p7.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p7/p7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA 2 programs/p7/p71.iml" filepath="$PROJECT_DIR$/JAVA 2 programs/p7/p71.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/basic programs/p7_oo-_inheritence/p7_oo-_inheritence.iml" filepath="$PROJECT_DIR$/java programs/basic programs/p7_oo-_inheritence/p7_oo-_inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p8/p8.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p8/p8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/basic programs/p8_oops_poly-compile time/p8_oops_poly-compile time.iml" filepath="$PROJECT_DIR$/java programs/basic programs/p8_oops_poly-compile time/p8_oops_poly-compile time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/p9/p9.iml" filepath="$PROJECT_DIR$/java programs/Patterns/p9/p9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/basic programs/p9_oops_runTime_poly/p9_oops_runTime_poly.iml" filepath="$PROJECT_DIR$/java programs/basic programs/p9_oops_runTime_poly/p9_oops_runTime_poly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/plan/plan.iml" filepath="$PROJECT_DIR$/java programs/Patterns/plan/plan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/String/prog1/prog1.iml" filepath="$PROJECT_DIR$/java programs/String/prog1/prog1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/String/prog2_reverse_string/prog2_reverse_string.iml" filepath="$PROJECT_DIR$/java programs/String/prog2_reverse_string/prog2_reverse_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/String/prog3_strLength/prog3_strLength.iml" filepath="$PROJECT_DIR$/java programs/String/prog3_strLength/prog3_strLength.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/String/prog4/prog4.iml" filepath="$PROJECT_DIR$/java programs/String/prog4/prog4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/String/prog5_arthstring/prog5_arthstring.iml" filepath="$PROJECT_DIR$/java programs/String/prog5_arthstring/prog5_arthstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/String/prog6_occuranceOfLetter/prog6_occuranceOfLetter.iml" filepath="$PROJECT_DIR$/java programs/String/prog6_occuranceOfLetter/prog6_occuranceOfLetter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/String/prog7_occuranceOfchar/prog7_occuranceOfchar.iml" filepath="$PROJECT_DIR$/java programs/String/prog7_occuranceOfchar/prog7_occuranceOfchar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/String/prog8_removalofrepetchar/prog8_removalofrepetchar.iml" filepath="$PROJECT_DIR$/java programs/String/prog8_removalofrepetchar/prog8_removalofrepetchar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java programs/Patterns/untitled/untitled1.iml" filepath="$PROJECT_DIR$/java programs/Patterns/untitled/untitled1.iml" />
+    </modules>
+  </component>
+</project>

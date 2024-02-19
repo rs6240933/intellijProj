@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/basic programs.iml" filepath="$PROJECT_DIR$/.idea/basic programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p10_constructor/p10_constructor.iml" filepath="$PROJECT_DIR$/p10_constructor/p10_constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p11_oops_encapsulation/p11_oops_encapsulation.iml" filepath="$PROJECT_DIR$/p11_oops_encapsulation/p11_oops_encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1_sum/p1_sum.iml" filepath="$PROJECT_DIR$/p1_sum/p1_sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2_palindrome/p2_palindrome.iml" filepath="$PROJECT_DIR$/p2_palindrome/p2_palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p3_func/p3_func.iml" filepath="$PROJECT_DIR$/p3_func/p3_func.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p4rec/p4rec.iml" filepath="$PROJECT_DIR$/p4rec/p4rec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p6_oop_accessModifier/p6_oop_accessModifier.iml" filepath="$PROJECT_DIR$/p6_oop_accessModifier/p6_oop_accessModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p7_oo-_inheritence/p7_oo-_inheritence.iml" filepath="$PROJECT_DIR$/p7_oo-_inheritence/p7_oo-_inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p8_oops_poly-compile time/p8_oops_poly-compile time.iml" filepath="$PROJECT_DIR$/p8_oops_poly-compile time/p8_oops_poly-compile time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p9_oops_runTime_poly/p9_oops_runTime_poly.iml" filepath="$PROJECT_DIR$/p9_oops_runTime_poly/p9_oops_runTime_poly.iml" />
+    </modules>
+  </component>
+</project>
